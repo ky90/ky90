@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ky90
+<!- - 👋 Hi, I’m @ky90 -->
 - 👀 I’m interested in web and mobile development, cloud computing and machine learning ...
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
