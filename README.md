@@ -1,7 +1,7 @@
 <!-- 👋 Hi, I’m @ky90 -->
 -- Java, Python & Flutter coder </br>
 -- MySQL, Mssql, SqlLite, Postgresql, Nosql (Redis, MongoDB) Lover
-- 👀 I’m interested in web and mobile development, cloud computing and machine learning ... </br>
+- 👀  Web and mobile development, cloud computing and machine learning Enthusiast </br>
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- -📫 How to reach me ... -->
