@@ -1,5 +1,5 @@
 <!-- 👋 Hi, I’m @ky90 -->
-Java, Go, Python & Flutter coder </br>
+Java, Scala, Kotlin, Go, Python & Flutter coder </br>
 MySQL, MSSQL, SqlLite, Postgresql, Nosql (Redis, MongoDB) Lover </br>
 Web (React & Vue) and mobile development, cloud computing and machine learning Enthusiast </br>
 <!-- - 🌱 I’m currently learning ... -->
