@@ -15,6 +15,7 @@ Web (React & Vue) and mobile development, cloud computing and machine learning E
 7. Codewars 
 8. toph.co
 
+Currently, I'm also learning Japanese language. Hopefully I can get N5 cert this year. 
 <!---
 ky90/ky90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
