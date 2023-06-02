@@ -5,7 +5,7 @@ Web (React & Vue) and mobile development, cloud computing and machine learning E
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- -📫 How to reach me ... -->
- Here is some programming websites I did:- </br>
+ Here is some programming websites I practice for coding:- </br>
 1. Leetcode
 2. Coderanks
 3. CodeEarth
